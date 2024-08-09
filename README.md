@@ -3,15 +3,17 @@ This repository contains comprehensive implementations and explanations of funda
 
 ## Introduction to DSA
 
-* Importance of DSA in Data Science
-* Basic Algorithm Concepts
-* Big O Notation
-* Overview of Common Data Structures
-* Time and Space Complexity
+- Importance of DSA in Data Science
+- Basic Algorithm Concepts
+- Big O Notation
+- Overview of Common Data Structures
+- Time and Space Complexity
 
 ## Basic Data Structures
 
-## Arrays
-* One-dimensional Arrays
-* Multi-dimensional Arrays 
-* Array Operations (Insertion, Deletion, Access)
+- Arrays
+    - One-dimensional Arrays
+    - Multi-dimensional Arrays 
+    - Array Operations (Insertion, Deletion, Access)
+- Linked Lists
+    - Singly Linked List
