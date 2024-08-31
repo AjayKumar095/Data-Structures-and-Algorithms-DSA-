@@ -17,3 +17,4 @@ This repository contains comprehensive implementations and explanations of funda
     - Array Operations (Insertion, Deletion, Access)
 - Linked Lists
     - Singly Linked List
+    - Linked List Practice Questions
