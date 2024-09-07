@@ -18,3 +18,15 @@ This repository contains comprehensive implementations and explanations of funda
 - Linked Lists
     - Singly Linked List
     - Linked List Practice Questions
+
+## Sorting and Searching
+
+- Sorting Algorithms
+    1. Bubble Sort
+    2. Selection Sort
+    3. Insertion Sort
+    4. Merge Sort
+    5. Quick Sort
+    6. Heap Sort
+    7. Counting Sort
+    8. Radix Sort
